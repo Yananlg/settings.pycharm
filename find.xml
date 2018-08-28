@@ -1,0 +1,20 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Project 'paipai'" />
+    <option name="defaultScopeName" value="Project 'paipai'" />
+    <option name="WITH_SUBDIRECTORIES" value="false" />
+    <option name="SEARCH_SCOPE" value="Project 'paipai'" />
+    <option name="FILE_MASK" value="*.js" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.xml</mask>
+      <mask>*.jsp</mask>
+      <mask>*.java</mask>
+      <mask>*.js</mask>
+    </recentFileMasks>
+  </component>
+</application>

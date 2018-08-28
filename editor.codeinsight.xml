@@ -1,0 +1,24 @@
+<application>
+  <component name="CodeFoldingSettings">
+    <option name="COLLAPSE_DOC_COMMENTS" value="true" />
+  </component>
+  <component name="CodeInsightSettings">
+    <option name="AUTO_POPUP_JAVADOC_INFO" value="true" />
+    <option name="COMPLETION_CASE_SENSITIVE" value="2" />
+    <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
+    <option name="SHOW_SOURCE_INFERRED_ANNOTATIONS" value="false" />
+    <option name="SURROUND_SELECTION_ON_QUOTE_TYPED" value="true" />
+    <option name="HIGHLIGHT_SCOPE" value="true" />
+    <option name="OPTIMIZE_IMPORTS_ON_THE_FLY" value="true" />
+    <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
+    <EXCLUDED_PACKAGE NAME="com.auction.eum.RKey.FlauntStatusEnum.YES" />
+  </component>
+  <component name="JSCodeFoldingSettings">
+    <option name="collapseArrayLiterals" value="true" />
+    <option name="collapseObjectLiterals" value="true" />
+    <option name="collapseXmlLiterals" value="true" />
+    <option name="COLLAPSE_OBJECT_LITERALS" value="true" />
+    <option name="COLLAPSE_ARRAY_LITERALS" value="true" />
+    <option name="COLLAPSE_XML_LITERALS" value="true" />
+  </component>
+</application>

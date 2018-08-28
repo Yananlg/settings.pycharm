@@ -1,0 +1,22 @@
+<application>
+  <component name="DependencyUISettings">
+    <option name="UI_FLATTEN_PACKAGES" value="false" />
+    <option name="UI_SHOW_FILES" value="false" />
+    <option name="UI_SHOW_MODULES" value="false" />
+    <option name="UI_SHOW_MODULE_GROUPS" value="false" />
+    <option name="UI_COMPACT_EMPTY_MIDDLE_PACKAGES" value="false" />
+    <option name="SCOPE_TYPE" value="file" />
+  </component>
+  <component name="UISettings">
+    <option name="FONT_FACE" value="Microsoft YaHei" />
+    <option name="OVERRIDE_CONSOLE_CYCLE_BUFFER_SIZE" value="true" />
+    <option name="CONSOLE_CYCLE_BUFFER_SIZE_KB" value="2024" />
+    <option name="EDITOR_TAB_LIMIT" value="15" />
+    <option name="HIDE_TOOL_STRIPES" value="false" />
+    <option name="COLOR_BLINDNESS" value="deuteranopia" />
+    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
+    <option name="MAX_LOOKUP_LIST_HEIGHT" value="29" />
+    <option name="PRESENTATION_MODE_FONT_SIZE" value="12" />
+    <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
+  </component>
+</application>

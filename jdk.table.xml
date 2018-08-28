@@ -1,0 +1,73 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="1.8" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.8.0_101&quot;" />
+      <homePath value="D:/Developer/Java/jdk1.8.0_101" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://D:/Developer/Java/jdk1.8.0_101/jre/lib/charsets.jar!/" />
+            <root type="simple" url="jar://D:/Developer/Java/jdk1.8.0_101/jre/lib/deploy.jar!/" />
+            <root type="simple" url="jar://D:/Developer/Java/jdk1.8.0_101/jre/lib/ext/access-bridge-64.jar!/" />
+            <root type="simple" url="jar://D:/Developer/Java/jdk1.8.0_101/jre/lib/ext/cldrdata.jar!/" />
+            <root type="simple" url="jar://D:/Developer/Java/jdk1.8.0_101/jre/lib/ext/dnsns.jar!/" />
+            <root type="simple" url="jar://D:/Developer/Java/jdk1.8.0_101/jre/lib/ext/jaccess.jar!/" />
+            <root type="simple" url="jar://D:/Developer/Java/jdk1.8.0_101/jre/lib/ext/jfxrt.jar!/" />
+            <root type="simple" url="jar://D:/Developer/Java/jdk1.8.0_101/jre/lib/ext/localedata.jar!/" />
+            <root type="simple" url="jar://D:/Developer/Java/jdk1.8.0_101/jre/lib/ext/nashorn.jar!/" />
+            <root type="simple" url="jar://D:/Developer/Java/jdk1.8.0_101/jre/lib/ext/sunec.jar!/" />
+            <root type="simple" url="jar://D:/Developer/Java/jdk1.8.0_101/jre/lib/ext/sunjce_provider.jar!/" />
+            <root type="simple" url="jar://D:/Developer/Java/jdk1.8.0_101/jre/lib/ext/sunmscapi.jar!/" />
+            <root type="simple" url="jar://D:/Developer/Java/jdk1.8.0_101/jre/lib/ext/sunpkcs11.jar!/" />
+            <root type="simple" url="jar://D:/Developer/Java/jdk1.8.0_101/jre/lib/ext/zipfs.jar!/" />
+            <root type="simple" url="jar://D:/Developer/Java/jdk1.8.0_101/jre/lib/javaws.jar!/" />
+            <root type="simple" url="jar://D:/Developer/Java/jdk1.8.0_101/jre/lib/jce.jar!/" />
+            <root type="simple" url="jar://D:/Developer/Java/jdk1.8.0_101/jre/lib/jfr.jar!/" />
+            <root type="simple" url="jar://D:/Developer/Java/jdk1.8.0_101/jre/lib/jfxswt.jar!/" />
+            <root type="simple" url="jar://D:/Developer/Java/jdk1.8.0_101/jre/lib/jsse.jar!/" />
+            <root type="simple" url="jar://D:/Developer/Java/jdk1.8.0_101/jre/lib/management-agent.jar!/" />
+            <root type="simple" url="jar://D:/Developer/Java/jdk1.8.0_101/jre/lib/plugin.jar!/" />
+            <root type="simple" url="jar://D:/Developer/Java/jdk1.8.0_101/jre/lib/resources.jar!/" />
+            <root type="simple" url="jar://D:/Developer/Java/jdk1.8.0_101/jre/lib/rt.jar!/" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="jar://D:/Developer/Java/jdk1.8.0_101/src.zip!/" />
+            <root type="simple" url="jar://D:/Developer/Java/jdk1.8.0_101/javafx-src.zip!/" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6.1 (D:\Developer\Python36.1\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.1" />
+      <homePath value="D:\Developer\Python36.1\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://D:/Developer/Python36.1/DLLs" />
+            <root type="simple" url="file://D:/Developer/Python36.1/Lib" />
+            <root type="simple" url="file://D:/Developer/Python36.1" />
+            <root type="simple" url="file://D:/Developer/Python36.1/Lib/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/1962226063" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>

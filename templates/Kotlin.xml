@@ -1,0 +1,17 @@
+<templateSet group="Kotlin">
+  <template name="main" value="fun main(args : Array&lt;String&gt;) {&#10;  $END$&#10;}" description="main() function" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN_TOPLEVEL" value="true" />
+    </context>
+  </template>
+  <template name="serr" value="System.err?.println($END$)" description="Prints a string to System.err" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="psvm" value="fun main(args : Array&lt;String&gt;) {&#10;  $END$&#10;}" description="main() function" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN_TOPLEVEL" value="true" />
+    </context>
+  </template>
+</templateSet>

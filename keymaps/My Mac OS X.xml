@@ -1,0 +1,25 @@
+<keymap version="1" name="My Mac OS X" parent="Mac OS X">
+  <action id="ActivateDebugToolWindow">
+    <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
+  <action id="ActivateFavoritesToolWindow">
+    <keyboard-shortcut first-keystroke="meta 4" />
+  </action>
+  <action id="ActivateFindToolWindow" />
+  <action id="ActivateRunToolWindow" />
+  <action id="ActivateTODOToolWindow">
+    <keyboard-shortcut first-keystroke="meta 5" />
+  </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="meta 9" />
+  </action>
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="meta 3" />
+  </action>
+  <action id="ConsoleView.ClearAll">
+    <keyboard-shortcut first-keystroke="ctrl c" />
+  </action>
+  <action id="DuplicatesForm.SendToRight" />
+  <action id="FileChooser.GotoModule" />
+  <action id="FileChooser.GotoProject" />
+</keymap>
